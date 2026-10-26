@@ -1,0 +1,98 @@
+[
+    {
+        "id": "aries",
+        "name": "Áries",
+        "startDate": "03-21",
+        "endDate": "04-19",
+        "element": "Fogo",
+        "description": "Corajoso, determinado, confiante e entusiasmado."
+    },
+    {
+        "id": "taurus",
+        "name": "Touro",
+        "startDate": "04-20",
+        "endDate": "05-20",
+        "element": "Terra",
+        "description": "Confiável, paciente, prático e dedicado."
+    },
+    {
+        "id": "gemini",
+        "name": "Gêmeos",
+        "startDate": "05-21",
+        "endDate": "06-20",
+        "element": "Ar",
+        "description": "Gentil, afetuoso, curioso e adaptável."
+    },
+    {
+        "id": "cancer",
+        "name": "Câncer",
+        "startDate": "06-21",
+        "endDate": "07-22",
+        "element": "Água",
+        "description": "Tenaz, altamente imaginativo, leal e emotivo."
+    },
+    {
+        "id": "leo",
+        "name": "Leão",
+        "startDate": "07-23",
+        "endDate": "08-22",
+        "element": "Fogo",
+        "description": "Criativo, apaixonado, generoso e caloroso."
+    },
+    {
+        "id": "virgo",
+        "name": "Virgem",
+        "startDate": "08-23",
+        "endDate": "09-22",
+        "element": "Terra",
+        "description": "Leal, analítico, gentil e trabalhador."
+    },
+    {
+        "id": "libra",
+        "name": "Libra",
+        "startDate": "09-23",
+        "endDate": "10-22",
+        "element": "Ar",
+        "description": "Cooperativo, diplomático, gracioso e justo."
+    },
+    {
+        "id": "scorpio",
+        "name": "Escorpião",
+        "startDate": "10-23",
+        "endDate": "11-21",
+        "element": "Água",
+        "description": "Engenhoso, corajoso, apaixonado e teimoso."
+    },
+    {
+        "id": "sagittarius",
+        "name": "Sagitário",
+        "startDate": "11-22",
+        "endDate": "12-21",
+        "element": "Fogo",
+        "description": "Generoso, idealista e com ótimo senso de humor."
+    },
+    {
+        "id": "capricorn",
+        "name": "Capricórnio",
+        "startDate": "12-22",
+        "endDate": "01-19",
+        "element": "Terra",
+        "description": "Responsável, disciplinado, autocontrolado e bom gestor."
+    },
+    {
+        "id": "aquarius",
+        "name": "Aquário",
+        "startDate": "01-20",
+        "endDate": "02-18",
+        "element": "Ar",
+        "description": "Progressista, original, independente e humanitário."
+    },
+    {
+        "id": "pisces",
+        "name": "Peixes",
+        "startDate": "02-19",
+        "endDate": "03-20",
+        "element": "Água",
+        "description": "Compassivo, artístico, intuitivo e sábio."
+    }
+]
