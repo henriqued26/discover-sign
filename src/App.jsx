@@ -94,7 +94,22 @@ export default function App() {
                 </CardContent>
             </Card>
 
-            {selectedZodiac && <ZodiacCard zodiac={selectedZodiac} />}
+            {selectedZodiac && (
+                <div className="w-full max-w-md space-y-4 animate-in fade-in slide-in-from-bottom-4">
+                    <ZodiacCard zodiac={selectedZodiac} />
+                    <Button
+                        type="button"
+                        variant="outline"
+                        onClick={() => {
+                            setSelectedZodiac(null);
+                            setSelectedDate("");
+                        }}
+                        className="w-full h-12 font-bold text-base border-slate-800 bg-slate-900/90 text-slate-300 hover:bg-slate-800 hover:text-white transition-all rounded-xl shadow-lg"
+                    >
+                        Fazer Nova Consulta
+                    </Button>
+                </div>
+            )}
         </main>
     );
 }
